@@ -1,0 +1,8 @@
+name: NeloSecurity
+version: 0.2
+author: nathan_snk, Hokashi
+main: be.NeloDev.NeloSecurity
+commands:
+nelosec:
+  permission: nelosecurity.admin.commands
+  description: Page d''aide 
